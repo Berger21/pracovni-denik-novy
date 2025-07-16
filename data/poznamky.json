@@ -1,0 +1,20 @@
+[
+  {
+    "id": "md4i7n8ahzhd2t2l6t9",
+    "datum": "2025-07-15",
+    "smena": "odpolední",
+    "technologie": "SOLO500",
+    "poznamka": "TEST POZNAMKA",
+    "autor": "Technolog",
+    "vytvoren": "2025-07-15T12:23:55.033Z"
+  },
+  {
+    "id": "md4iuax1iyzjpsedqcd",
+    "datum": "2025-07-15",
+    "smena": "noční",
+    "technologie": "IPSEN",
+    "poznamka": "TEST POZNAMKA TECHNOLOG",
+    "autor": "Technolog",
+    "vytvoren": "2025-07-15T12:41:32.319Z"
+  }
+]
